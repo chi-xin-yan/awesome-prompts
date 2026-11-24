@@ -1,7 +1,7 @@
 # awesome-prompts
 
-A curated collection of system prompts.
+我自己撰写的系统提示词合集。
 
-## License
+## 许可协议
 
-Prompt text in this repository is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](LICENSE) for the full text.
+本仓库中的提示词文本以 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布，协议全文见 [LICENSE](LICENSE)。
